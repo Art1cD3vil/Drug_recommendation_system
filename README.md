@@ -14,10 +14,10 @@ This project is a **Medical Drug Recommendation System** that utilizes **MRI sca
 ![MRI Upload](mri_upload.png)
 
 ### **2️⃣ DNA Sequence Analysis**
-![DNA Analysis](images/dna_analysis.png)
+![DNA Analysis](dna_analysis.png)
 
 ### **3️⃣ Result Display with Treatments**
-![Results](images/result_display.png)
+![Results](result_display.png)
 
 ---
 
