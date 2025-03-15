@@ -1,0 +1,6 @@
+Tumor Type,Standard Treatments,Personalized Treatments,AI Suggestion
+unknown_tumor,Biopsy followed by targeted therapy,None,BERT-Pan-Tumor
+healthy,No treatment needed,None,BERT-Neuro-Gen
+glioma,"Temozolomide, Bevacizumab",None,BERT-Glio-01
+meningioma,Surgery + Radiation,None,BERT-Menin-X4
+pituitary,"Cabergoline, Octreotide",None,BERT-Pit-7A

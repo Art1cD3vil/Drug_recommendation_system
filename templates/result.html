@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Treatment Plan</title>
+</head>
+<body>
+    <h1>Treatment Plan for {{ tumor_type }}</h1>
+    <p><strong>Gene Sequence:</strong> {{ gene_sequence }}</p>
+    <p><strong>Standard Treatments:</strong> {{ treatment['Standard Treatments'] }}</p>
+    <p><strong>Personalized Treatments:</strong> {{ treatment['Personalized Treatments'] }}</p>
+    <p><strong>AI Suggestion:</strong> {{ treatment['AI Suggestion'] }}</p>
+    <a href="/">Try Another Image</a>
+</body>
+</html>
