@@ -7,6 +7,18 @@ This project is a **Medical Drug Recommendation System** that utilizes **MRI sca
 - **DNA Sequence Analysis** (Detects mutations and suggests treatments)
 - **Full-Stack Implementation** (Frontend: React, Backend: FastAPI)
 
+  
+## 📷 Implementation Screenshots
+
+### **1️⃣ MRI Upload Interface**
+![MRI Upload](images/mri_upload.png)
+
+### **2️⃣ DNA Sequence Analysis**
+![DNA Analysis](images/dna_analysis.png)
+
+### **3️⃣ Result Display with Treatments**
+![Results](images/result_display.png)
+
 ---
 
 ## 🚀 Setup Instructions
