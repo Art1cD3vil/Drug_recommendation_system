@@ -11,7 +11,7 @@ This project is a **Medical Drug Recommendation System** that utilizes **MRI sca
 ## 📷 Implementation Screenshots
 
 ### **1️⃣ MRI Upload Interface**
-![MRI Upload](images/mri_upload.png)
+![MRI Upload](mri_upload.png)
 
 ### **2️⃣ DNA Sequence Analysis**
 ![DNA Analysis](images/dna_analysis.png)
